@@ -1,18 +1,21 @@
-## Your Name
+## Andrea Armiliato
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm an enthusiastic italian guy who loves good food and coding. I've developed my passion during my early years but I've never went deep into it until my University years. I'm looking for a job placement that makes me fell at home and gives me the opportunity to learn more and improve my skills.
 
 ## Skills
 
-#### This Skill
+#### Coding
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Experience
 - Achievements
 - Evidence
+   
 
-#### Another Skill
+#### Communication
+
+#### Sound Engeneereng
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -32,7 +35,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Università degli studi di Genova (September 2011 to January 2015)
+#### Università of Genoa (September 2011 to January 2015)
 
 - Undergraduate in Communication
 - Full marks with honors
