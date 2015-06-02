@@ -46,10 +46,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Firma Srl** (December 2014 to February 2014)    
-*Internship as coder*
-**Various Jobs** (January 2009 to June 2010)
-**Analogue Muse, New York** (Semptember to Dicember 2008)    
+**Firma Srl** (December 2014 to February 2014)  
+*Internship as coder*  
+**Various Jobs** (January 2009 to June 2010)  
+**Analogue Muse, New York** (Semptember to Dicember 2008)  
 *Internship as sound engeneer*  
-**Claudio Berisso** (Semptember 2006 to August 2007)   
+**Claudio Berisso** (Semptember 2006 to August 2007)  
 *Plumber*  
