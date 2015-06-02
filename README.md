@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (16 March to 6 Jun 2015)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Università degli studi di Genova (September 2011 to January 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Undergraduate in Communication
+- Full marks with honors
+- I've wrote my final thesis about develop of Web languages from 1991 to 2015.
 
-#### Any other qualifications
+#### Roland Music School - Sound Engeneer (Semptember 2007 to June 2008)
+
+- stuff
+- stuff
+- stuff
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Firma Srl** (December 2014 to February 2014)    
+*Internship as coder*
+**Various Jobs** (January 2009 to June 2010)
+**Analogue Muse, New York** (Semptember to Dicember 2008)    
+*Internship as sound engeneer*  
+**Claudio Berisso** (Semptember 2006 to August 2007)   
+*Plumber*  
