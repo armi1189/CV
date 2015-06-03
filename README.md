@@ -6,7 +6,8 @@ I'm an enthusiastic italian guy who loves good food and coding. I've developed m
 
 #### Coding
 
-Been into coding since I was 10, self-taught until the age of 25 when I've decided to enroll at Makers Accademy. I define myself a really enthusiastic learner and a great problem solver
+Been into coding since I was 10, self-taught until the age of 25 when I've decided to enroll at Makers Accademy. I define myself a really enthusiastic learner and a great problem solver.  
+During my expirence i had the oportunity to learn 
 
 There are some of the projects i've done during my twelve weeks adventure at Makers Accademy:
 
