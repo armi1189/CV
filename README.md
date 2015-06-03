@@ -24,11 +24,6 @@ There are some of the projects i've done during my twelve weeks adventure at Mak
 I've worked as freelance sound engeneereng in my previous life. No more insterested in that job because i wanted to complete my stuides and do something different with my life. By the way i still have good knowledge of sound manipolation software such as Logic Pro and CuBase, and good knowledge of recording techniques, mixing and instrumentation.
 
   
-#### Social Studies
-
-I've done social studies at University, that gave me deep knowlodge of subjects as psicology, sociology, semiotics.
-
-  
 ## Education
 
 #### Makers Academy (16 March to 6 Jun 2015)
