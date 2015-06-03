@@ -32,7 +32,6 @@ I've worked as freelance sound engeneereng in my previous life. No more insteres
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
--   
 
 ## Education
 
