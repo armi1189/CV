@@ -6,7 +6,7 @@ I'm an enthusiastic italian guy who loves good food and coding. I've developed m
 
 #### Coding
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+something
 
 - Experience
 - Achievements
@@ -14,6 +14,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
    
 
 #### Communication
+
+social studies at university. semiotics, sociology. 
 
 #### Sound Engeneereng
 
@@ -52,6 +54,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Firma Srl** (December 2014 to February 2014)  
 *Internship as coder*  
 **Various Jobs** (January 2009 to June 2010)  
+*Bartender*  
+*Tobacconist*  
 **Analogue Muse, New York** (Semptember to Dicember 2008)  
 *Internship as sound engeneer*  
 **Claudio Berisso** (Semptember 2006 to August 2007)  
