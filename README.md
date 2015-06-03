@@ -1,13 +1,13 @@
 ## Andrea Armiliato
 
-I'm an enthusiastic italian guy who loves good food and coding. I've developed my passion during my early years but I've never went deep into it until my University years. I'm looking for a job placement that makes me fell at home and gives me the opportunity to learn more and improve my skills.
+I am an enthusiastic italian guy who loves good food and coding. I've developed my passion during my early years but I never covered it deeply until my time at University. I am currently looking for a job placement that makes me feel at home and gives me the opportunity to learn more and improve my skills.
 
 ## Skills
 
 #### Coding
 
-Been into coding since I was 10, self-taught until the age of 25 when I've decided to enroll at Makers Accademy, I define myself a really enthusiastic learner and a great problem solver.  
-During my expirence I had the oportunity to learn plenty of stuff, starting from work methodologies, such as TDD and pair programming, and ending with languages such as Ruby and JavaScript, with some of their relative frameworks. But most important i've learned how to properly learn by myself and i've all the instruments that I need to understand a new language from scratch and feel comfortable with it.
+I have been a completely self-taught coder until the age of 25, where upon I decided to enroll at Makers Accademy, I define myself as a really enthusiastic learner and a great problem solver.  
+During my expirence I had the oportunity to learn many thing, including work methodologies, such as TDD and pair programming, and programming languages such as Ruby and JavaScript, and their relative frameworks. More importantly, I have learnt how to properly teach myself and i have developed all the necessary techniques that I need to understand a new language from scratch and feel comfortable with it.
 
 There are some of the projects i've done during my twelve weeks adventure at Makers Accademy:
 
@@ -21,12 +21,12 @@ There are some of the projects i've done during my twelve weeks adventure at Mak
 
 #### Sound Engeneereng
 
-I've worked as freelance sound engeneereng in my previous life. No more insterested in that job because i wanted to complete my stuides and do something different with my life. By the way i still have good knowledge of sound manipolation software such as Logic Pro and CuBase, and good knowledge of recording techniques, mixing and instrumentation.
+I have worked as freelance sound engineer before pursuing programming. I am no longer insterested in that job because i wanted to complete my studies and do something more fulfilling.  I still have good knowledge of sound manipulation software such as Logic Pro and CuBase, and good knowledge of recording techniques, mixing and instrumentation.
 
   
 ## Education
 
-#### Makers Academy (16 March to 6 Jun 2015)
+#### Makers Academy (16 March to 6 June 2015)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -42,7 +42,7 @@ I've worked as freelance sound engeneereng in my previous life. No more insteres
 - Great knowlodge of social subjects as sociology, psicology and semiotics.
 - Final thesis about develop of Web languages from 1991 to 2015.
 
-#### Roland Music School - Sound Engeneer (Semptember 2007 to June 2008)
+#### Roland Music School - Sound Engeneer (September 2007 to June 2008)
 
 - Sound manipolation softwares
 - Recording techniques
@@ -57,7 +57,7 @@ I've worked as freelance sound engeneereng in my previous life. No more insteres
 *Freelance Sound Engeneer*  
 *Bartender*  
 *Tobacconist*  
-**Analogue Muse, New York** (Semptember to Dicember 2008)  
+**Analogue Muse, New York** (Semptember to December 2008)  
 *Internship as sound engeneer*  
 **Claudio Berisso** (Semptember 2006 to August 2007)  
 *Plumber*  
