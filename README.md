@@ -6,7 +6,7 @@ I'm an enthusiastic italian guy who loves good food and coding. I've developed m
 
 #### Coding
 
-something
+Been into coding since I was 10, self-taught until the age of 25 when I've decided to enroll at Makers Accademy. I define myself a really enthusiastic learner and a great problem solver
 
 - Experience
 - Achievements
@@ -15,11 +15,13 @@ something
 
 #### Communication
 
-social studies at university. semiotics, sociology. 
+I've done social studies at University. Deep knowlodge of subjects as sociology, semiotics,
+
+- 
 
 #### Sound Engeneereng
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I got good experience in sound engeneereng. 
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -54,6 +56,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Firma Srl** (December 2014 to February 2014)  
 *Internship as coder*  
 **Various Jobs** (January 2009 to June 2010)  
+*Freelance Sound Engeneer*  
 *Bartender*  
 *Tobacconist*  
 **Analogue Muse, New York** (Semptember to Dicember 2008)  
