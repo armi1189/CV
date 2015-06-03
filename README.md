@@ -10,12 +10,12 @@ Been into coding since I was 10, self-taught until the age of 25 when I've decid
 
 There are some of the projects i've done during my twelve weeks adventure at Makers Accademy:
 
-- ![Ignite](https://github.com/IgniteIt/ignite_it)
-- ![InstagApp](https://github.com/armi1189/instagram-challenge)
-- ![ToDo List](https://github.com/armi1189/todo_challenge)
-- ![Bowling Score Calculator](https://github.com/armi1189/bowling-challenge)
-- ![Thermostat](https://github.com/armi1189/Thermostat_Interface)
-- ![Rock Paper Scissors](https://github.com/armi1189/rps-challenge)
+- [Ignite](https://github.com/IgniteIt/ignite_it)
+- [InstagApp](https://github.com/armi1189/instagram-challenge)
+- [ToDo List](https://github.com/armi1189/todo_challenge)
+- [Bowling Score Calculator](https://github.com/armi1189/bowling-challenge)
+- [Thermostat](https://github.com/armi1189/Thermostat_Interface)
+- [Rock Paper Scissors](https://github.com/armi1189/rps-challenge)
    
 
 #### Social Studies
