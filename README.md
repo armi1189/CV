@@ -13,7 +13,7 @@ Been into coding since I was 10, self-taught until the age of 25 when I've decid
 - Evidence
    
 
-#### Communication
+#### Social Studies
 
 I've done social studies at University. Deep knowlodge of subjects as sociology, semiotics,
 
@@ -37,7 +37,7 @@ I got good experience in sound engeneereng.
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Rspec, Capybara, Jasmine, Mocha
 
 #### Università of Genoa (September 2011 to January 2015)
 
